@@ -1,0 +1,56 @@
+body{
+  color: #666;
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  line-height: 22px;
+  font-family: Arial, sans-serif;
+}
+
+#header{
+  color: #ff8080;
+
+  text-align: center;
+  background-color: #99ebff;
+  height: 50px;
+}
+#principal{
+text-align: justify;
+float: left;
+
+width: 56%;
+
+background-color: #99ff99;
+}
+#lateral{
+text-align: justify;
+float: right;
+width: 44%;
+background-color: #ccebff;
+}
+#peu{
+text-align: justify;
+clear: both;
+width: 100%;
+background-color: #ffb366;
+}
+div{
+
+
+}
+.num{
+  background-color: blue;
+  width: 30%;
+  height: 200px;
+  float: left;
+  margin: 1%;
+  border: solid 5px #FFF;
+}
+.lat{
+  height: 153px;
+  margin: 1%;
+  border: solid 5px #FFF;
+}
+h2{
+  margin-left: 50px;
+}
