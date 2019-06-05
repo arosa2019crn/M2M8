@@ -1,0 +1,78 @@
+body{
+
+  font-family: "Helvetica neue";
+  color: black;
+  font-size: 11pt;
+}
+.contenidor{
+  background-color: grey;
+  width: 1680px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+.uno{
+  box-shadow: 5px 2px grey;
+  background-color: white;
+  width: 400px;
+  margin: 5px;
+  float: left;
+
+}
+.uuno{
+  height: auto;
+  width: auto;
+  padding: 0;
+  margin: 5px;
+  margin-top: -10px;
+}
+.dos{
+
+  height: auto;
+  width: auto;
+  padding: 0;
+  margin: 5px;
+  float: left;
+}
+.tres{
+
+  width:200px;
+  height:100px;
+  margin: 5px;
+  float: right;
+  text-align: center;
+}
+.cuatro{
+
+  width:400px;
+  height:50px;
+  margin: 5px;
+  text-align: center;
+}
+.cinco{
+
+  width:400px;
+  height:200px;
+  margin: 10px;
+
+}
+.seis{
+
+  width:70px;
+  height:50px;
+  margin: 5px;
+  float: right;
+}
+
+.siete{
+
+  width:400px;
+  height:100px;
+  margin: 5px;
+  clear: both;
+  text-align: center;
+}
+
+.imagenes2{
+border-radius: 70px;
+
+}
